@@ -59,7 +59,7 @@ export default function Home() {
                     </div>
                     <h6 className="text-xl font-semibold">Lorena Hernandez</h6>
                     <p className="mt-2 mb-4 text-blueGray-500">
-                      -- Titulo --
+                      Ingeniero en TIC´S
                     </p>
                   </div>
                 </div>
